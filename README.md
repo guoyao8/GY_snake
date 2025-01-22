@@ -1,2 +1,0 @@
-# GY_snake
-nothing
